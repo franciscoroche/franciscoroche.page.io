@@ -14,6 +14,5 @@ My Public Web Page
     		<div class="blurb">
         		<h1>Hi there, I'm Francisco open for challanges</h1>
 				
-		</footer>
-	</body>
+		
 </html>
